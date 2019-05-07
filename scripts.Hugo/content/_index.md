@@ -68,3 +68,4 @@ weight = 20
 
 * [ 20080327  SKATER  ]({{< relref "20080327_fxat8gobazw" >}})
 
+![background.jpg](background.jpg)
